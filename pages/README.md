@@ -1,0 +1,1 @@
+Next.js setup and configuration for React app.
